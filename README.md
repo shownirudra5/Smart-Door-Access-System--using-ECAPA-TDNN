@@ -1,7 +1,7 @@
 # Smart-Door-Access-System--using-ECAPA-TDNN
 This project presents an advanced Biometric Access Control System that utilizes state-of-the-art Speaker Verification to provide secure, hands-free entry.  
 
-Pipeline.png
+[Pipelineof the project](Pipeline.png)
 ## 📁 Project Contents
 * **smart_door_ecapa.py**: Main Python implementation of the verification logic.
 * **smart_door_Course_report.docx**: Comprehensive documentation and project report.
